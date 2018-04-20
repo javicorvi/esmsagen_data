@@ -1,0 +1,9 @@
+,top_generic,top_threshold,contact_threshold,par_positions,nat_contact,nat_contact_%,evol_contact,evol_contact_%,match_positions,prom_contact,prom_contact_%,match_positions_prom,ref_contact,ref_contact_%,match_positions_reference
+1,2,8,8,23,12,52,23,100,3,9,39,1,11,47,1
+2,2,7,7,35,22,62,35,100,7,20,57,4,24,68,4
+3,2,6,6,51,32,62,49,96,8,37,72,7,39,76,8
+4,2,5,5,66,38,57,63,95,10,55,83,10,46,69,9
+5,2,4,4,83,47,56,76,91,15,72,86,18,56,67,15
+6,2,3,3,104,57,54,84,80,21,85,81,24,67,64,22
+7,2,2,2,154,75,48,109,70,33,110,71,33,80,51,30
+8,2,1,1,308,114,37,148,48,74,161,52,82,106,34,63

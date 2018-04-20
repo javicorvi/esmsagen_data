@@ -1,0 +1,5 @@
+,protein,pdb,chain,beta,nsus,run,auc_mi,auc_01_mi,auc_di,auc_01_di,auc_frob,auc_01_frob,auc_psicov,auc_01_psicov,execution_time,start_residue,end_residue,message,method,score,score_01
+1,THIO_ECOLI_4_107,1XOB,A,5.0,20.0,20000,,,,,,,,,3857.3666050434113,,,,mi,0.9030672234475043,0.8068457611406332
+2,THIO_ECOLI_4_107,1XOB,A,0.5,5.0,20000,,,,,,,,,0.001107931137084961,,,,di,,
+3,THIO_ECOLI_4_107,1XOB,A,5.0,20.0,20000,,,,,,,,,0.0024900436401367188,,,,frob,,
+4,THIO_ECOLI_4_107,1XOB,A,7.0,20.0,20000,,,,,,,,,5026.57856798172,,,,psicov,0.9803475935828878,0.9368650631868285
